@@ -1052,7 +1052,9 @@ color:#006064;
   border-bottom-style: solid;
   border-bottom-width: 0.08em;
 }
-
+.output_wrapper pre code{
+display: -webkit-box !important;
+}
 /*
 .output_wrapper pre code{font-family: Consolas, Inconsolata, Courier, monospace; display: block !important; white-space: pre !important; word-wrap: normal !important; word-break: normal !important;  overflow: auto !important;} 
 
