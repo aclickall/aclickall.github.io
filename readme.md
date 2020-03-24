@@ -5,6 +5,11 @@
 ###内容目录（由[TOC]自动生成）
 
 [TOC]
+###关于网站访问慢的问题
+有时网站的访问不稳定，可分别尝试不同的服务器
+[服务器1,http://md.aclickall.com](http://md.aclickall.com)
+[服务器2,http://md2.aclickall.com](http://md.aclickall.com)
+
 
 ###Md2All 简介
 Markdown排版利器，支持 **"一键排版"** 、自定义css、80多种代码高亮。
