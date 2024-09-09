@@ -5,10 +5,6 @@
 ###内容目录（由[TOC]自动生成）
 
 [TOC]
-###关于网站访问慢的问题
-有时网站的访问不稳定，可分别尝试不同的服务器
-[服务器1,http://md.aclickall.com](http://md.aclickall.com)
-[服务器2,http://md2.aclickall.com](http://md2.aclickall.com)
 
 
 ###Md2All 简介
@@ -66,7 +62,7 @@ function DisplayWindowSize(){
 ###图片显示
 
 下面的是我的公众号二维码图片，欢迎关注。
-![图注:大少公众号](http://img.blog.csdn.net/20171012163602706) 
+![图注:大少公众号](imgs/my.jpg) 
 注：markdown对图片链接的语法是:`![]()`,如：`![这里写图片描述](http://img.blog.csdn.net/20171012163602706)`,
 可直接把网络图片地址添加到markdown中，
 默认为图片居中，如果想居左时，请打开"一键排版"下的css样式中的`img{margin:0 0;}`,
@@ -225,7 +221,7 @@ $$
 <a id="jump_20"></a>
 ###赞赏Md2All
 如果你觉得到Md2All对你有帮助，欢迎赞赏，有你的支持，Md2All一定会越来越好！
-![大少赞赏码](http://img.blog.csdn.net/20171012155402463?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvZ2FyeV95YW4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![大少赞赏码](imgs/appreciate.jpg)
 
 ###版本更新记录
 ***
